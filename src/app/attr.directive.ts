@@ -1,4 +1,5 @@
-import { Attribute, Directive, ElementRef, Input , SimpleChange, Output, EventEmitter, HostListener, HostBinding} from "@angular/core";
+import { Attribute, Directive, ElementRef, Input , SimpleChange, Output, EventEmitter,
+         HostListener, HostBinding} from "@angular/core";
 import { Product} from "./product.model";
 
 @Directive({
